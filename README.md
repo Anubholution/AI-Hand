@@ -10,12 +10,10 @@ Intel RealSense Camera: Utilized for depth perception and capturing RGB data.
 2. Software Components
 Operating System: The system operates on a custom image backup for Jetson Nano dated November 23, 2023.
 
-Backup Image Link: Jetson Nano Backup Image
+Backup Image Link: https://drive.google.com/file/d/1MUmnEWIxHewFUYagGNBTmIVu7_iS1JhV/view?usp=sharing
 Virtual Environment Activation:
 To activate the environment, run the following command:
 
-bash
-Copy code
 $ source yolov5/Python-3.8.12/yolo/bin/activate
 Libraries:
 The environment includes necessary libraries, with a focus on YOLO model dependencies.
