@@ -6,4 +6,4 @@ link:- https://drive.google.com/file/d/1MUmnEWIxHewFUYagGNBTmIVu7_iS1JhV/view?us
 
 
 
-Environment Activate:-  source yolov5/Python-3.8.12/yolo/bin/activate
+Environment Activate: $ source yolov5/Python-3.8.12/yolo/bin/activate
